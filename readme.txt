@@ -3,7 +3,6 @@ Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quich AND simple.
-123312
 12344558
 6666666
 12345678987654
